@@ -5,6 +5,9 @@ To find the visual review of Ek Narayan Paudel's plot, [Click Here.](https://git
 Higg Boson Contributions:
 
 Data wrangling and extraction: Allie DeAbreu, Victor Ramirez
+
 Random Forest and Gradient boosting: Liam Kelley, Michael Richardson, Elliot Jones
+
 Extraction of Important features and Random Search: Victor Ramirez, Liam Kelley, Shea Fitzgerald, Micheal Richardson
+
 ROC curve: Allie DeAbreu
