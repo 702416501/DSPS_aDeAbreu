@@ -11,3 +11,9 @@
 ## Quality: 
 
 The graph does a very good job at showing how does the data correlate with the predicted model since the data points and the curve are very easy to tell apart and to see how they relate to one another.
+
+
+# FBB 
+you did not include the plot in the markdown and you did not split the review in the three topic, though you discuss aesthetic, clarity, and honesty in the points. 
+
+90%
